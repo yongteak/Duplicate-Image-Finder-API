@@ -27,7 +27,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.srch07.duplicate_image_finder.api.DuplicateImageFinder</mainClass>
+                  <mainClass>work.DuplicateImageFinder</mainClass>
                 </transformer>
               </transformers>
             </configuration>
